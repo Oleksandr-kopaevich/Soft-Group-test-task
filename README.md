@@ -6,14 +6,14 @@
 **Shared UI Components:** Promotes reusability and consistency across the frontend, potentially across multiple frontends (e.g., web, admin panels) within the monorepo.  
 **Shared Configurations and Models:** Ensures consistency in configurations (like API endpoints) and data models across the frontend and backend, reducing duplication and potential discrepancies.
 
-Here's how I'd structure the project:
-
 # for task || see the next files
 
 `apps/api/src/payment-processor` - folder with managing processors
 `apps/api/src/checkout/checkout.service.ts` - examples of using payment processor service during checkout
 
-# High-Level Structure
+Here's how I'd structure the project:
+
+# High-Level Structure (see more details in folders itself)
 
 ```
 web-shop-monorepo/
