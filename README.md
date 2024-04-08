@@ -8,7 +8,7 @@
 
 # for task || see the next files
 
-`apps/api/src/payment-processor` - folder with managing processors
+`apps/api/src/payment-processor` - folder with managing payment processors
 `apps/api/src/checkout/checkout.service.ts` - examples of using payment processor service during checkout
 
 Here's how I'd structure the project:
