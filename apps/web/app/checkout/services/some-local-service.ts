@@ -1,0 +1,1 @@
+// some business logic that related just to page Checkout
